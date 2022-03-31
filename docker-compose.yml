@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  mecab:
+    container_name: "wc_ja_app"
+    image: "wc_ja_app"
+    build: .
+    volumes:
+      - "./container:/workdir"
+    tty: true

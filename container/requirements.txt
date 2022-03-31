@@ -1,0 +1,4 @@
+mecab-python3 == 1.0.4
+jupyterlab
+wordcloud
+emoji
