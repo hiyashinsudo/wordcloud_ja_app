@@ -1,4 +1,4 @@
-# wordcount_ja_app
+# wordcloud_ja_app
 
 document.txtに書かれたテキストのword cloudを作成する。
 
